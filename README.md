@@ -32,7 +32,7 @@ If you finish one of the assignments ahead of schedule, your best bet is to rese
 
 ## [Before You Get Started](id:getstarted)
 Download the zip file of this repository. Explore the files.
- 
+
 Run the **index.html** file in your browser. It will appear blank, but will make all your JavaScript files available in your JavaScript console.
 
 You will be console.log()'ing a lot to check your work. When you complete a section, feel free to comment out any console.logs so that you don't clutter up your console as you are testing your code.
@@ -51,3 +51,5 @@ Links to Exercises
 [Nested Data](https://github.com/bgando/nested-data-exercises)
 
 [Functions](https://github.com/bgando/function-exercises/)
+
+Greg Lindahl
